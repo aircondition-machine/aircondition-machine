@@ -631,8 +631,8 @@ body {
     align-items: center;
     min-height: 112px;
     margin-bottom: 8px;
-
-    background: var(--light-color);
+    /* background: var(--light-color); */
+    background: transparent;
     border-radius: 4px;
   }
 }
